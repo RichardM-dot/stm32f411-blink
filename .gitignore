@@ -1,0 +1,6 @@
+# 构建产物
+build/
+compile_commands.json
+
+# macOS Finder 元数据
+.DS_Store
